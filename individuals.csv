@@ -1,0 +1,81 @@
+ID,Name,Gender,Birthday,Death,Age,Child in,Spouse in
+@I1@,Matthew /Smith/,M,17 JAN 1960,Alive,57,@F3@,@F2@
+@I2@,Rob /Smith/,M,25 APR 1979,Alive,38,@F2@,@F1@
+@I3@,Anne /Doe/,F,4 APR 1985,Alive,32,@F4@,@F2@
+@I4@,John /Smith/,M,27 MAY 1979,Alive,38,@F2@,@F5@
+@I5@,Jason /Smith/,M,6 MAR 1966,2 SEP 1990,51,@F3@,@F7@
+@I6@,Joe /Doe/,M,12 APR 1927,Alive,90,???,@F9@
+@I7@,Dorothy /Williams/,F,11 JAN 1928,17 JUL 2010,89,???,@F8@
+@I8@,Elizabeth /Johnson/,F,19 NOV 1930,13 OCT 2013,87,???,@F11@
+@I9@,Jeff /Smith/,M,1 MAR 1999,Alive,18,@F7@,@F10@
+@I10@,Charles /Smith/,M,25 FEB 1926,16 SEP 1987,91,???,@F12@
+@I11@,Linda /Davis/,F,4 NOV 1967,5 FEB 2000,50,???,@F12@
+@I12@,Jennifer /Brown/,F,14 MAY 1968,Alive,49,???,@F11@
+@I13@,Arnold /Smith/,M,10 DEC 2000,Alive,16,@F6@,None
+@I14@,Jessica /Dunn/,F,5 MAR 1990,14 APR 1930,27,???,@F9@
+@I15@,Sam /Anderson/,M,7 AUG 1957,Alive,60,???,None
+@I16@,Mary /Jacobs/,F,13 AUG 2002,25 OCT 2017,15,???,None
+@I17@,Lilly /Anderson/,F,16 JUN 1960,Alive,57,???,None
+@I18@,Robert /Anderson/,M,16 SEP 1977,Alive,40,???,None
+@I19@,Julie /Anderson/,F,7 MAY 1980,Alive,37,???,None
+@I20@,Jonathan /Sam/,M,6 OCT 1980,Alive,37,???,None
+@I21@,Angelina /Gilbert/,F,17 JUN 1982,Alive,35,???,None
+@I22@,Stevens /David/,M,16 JUN 1978,Alive,39,???,None
+@I23@,Molly /Fischer/,F,16 JUN 1979,Alive,38,???,None
+@I24@,Sam /Rovins/,M,17 JUN 1980,Alive,37,???,None
+@I25@,Emily /Sam/,F,5 JUN 1983,Alive,34,???,None
+@I26@,Agatha /Bill/,F,20 MAY 1981,Alive,36,???,None
+@I27@,James /Rovins/,M,11 JUL 2003,Alive,14,???,None
+@I28@,Oliver /Stevens/,M,19 OCT 2017,Alive,0,???,None
+@I29@,Rosie /Jonathan/,F,23 NOV 2017,Alive,-1,???,None
+@I30@,Johnson /Johnson/,M,23 JUL 2120,Alive,-1,???,None
+@I31@,Johnson /Johnson/,M,23 JUL 1815,Alive,202,???,None
+@I32@,Help /Me/,F,20 MAY 1800,10 APR 2020,217,???,None
+@US14/15-1@,Samuel /Taat/,M,1 JAN 2000,Alive,17,???,@US14/15F1@
+@US14/15-2@,Kimuel /Bister/,F,1 JAN 2000,Alive,17,???,@US14/15F1@
+@US14/15-3@,Kim Taat /Taat/,M,1 JAN 2014,Alive,3,@US14/15F1@,@US14/15F2@
+@US14/15-4@,Maria /Teet/,F,1 JAN 2010,Alive,7,???,@US14/15F2@
+@US14/15-5@,Bim /Taat/,M,1 JAN 2014,Alive,3,@US14/15F1@,None
+@US14/15-6@,Lim /Taat/,M,1 JAN 2014,Alive,3,@US14/15F1@,None
+@US14/15-7@,Tin /Taat/,F,1 JAN 2014,Alive,3,@US14/15F1@,None
+@US14/15-8@,Yin /Taat/,M,1 JAN 2014,Alive,3,@US14/15F1@,None
+@US14/15-9@,Sim /Taat/,F,1 JAN 2014,Alive,3,@US14/15F1@,None
+@US14/15-10@,Fim /Taat/,M,1 JAN 2014,Alive,3,@US14/15F1@,None
+@US14/15-11@,Taati /Taat/,F,1 JAN 2015,Alive,2,@US14/15F1@,None
+@US15_I1@,Alot /Ofkids/,M,2 JAN 1985,Alive,32,???,@US15_F2@
+@US15_I2@,Childone /Ofkids/,M,5 JUN 1966,Alive,51,@US15_F2@,@US18_F0@
+@US15_I3@,Miss /Ofkids/,F,4 JUL 1984,Alive,33,???,@US15_F2@
+@US15_I4@,Childtwo /Ofkids/,F,12 MAR 2000,Alive,17,@US15_F2@,@US18_F0@
+@US15_I5@,Childthree /Ofkids/,M,4 JAN 2001,Alive,16,@US15_F2@,None
+@US15_I6@,Childfour /Ofkids/,F,25 FEB 2001,Alive,16,@US15_F2@,None
+@US15_I7@,Childfive /Ofkids/,M,20 MAY 2002,Alive,15,@US15_F2@,None
+@US15_I8@,Childsix /Ofkids/,F,23 JUN 2003,Alive,14,@US15_F2@,None
+@US15_I9@,Childseven /Ofkids/,M,25 MAY 2003,Alive,14,@US15_F2@,None
+@US15_I10@,Childeight /Ofkids/,F,10 OCT 2004,Alive,13,@US15_F2@,None
+@US15_I11@,Childnine /Ofkids/,M,13 AUG 2005,Alive,12,@US15_F2@,None
+@US15_I12@,Childten /Ofkids/,F,10 JUL 2006,Alive,11,@US15_F2@,None
+@US15_I13@,Childelleven /Ofkids/,M,4 JAN 2007,Alive,10,@US15_F2@,None
+@US15_I14@,Childtwelve /Ofkids/,F,4 OCT 2008,Alive,9,@US15_F2@,None
+@US15_I15@,Childthirteen /Ofkids/,M,15 AUG 2009,Alive,8,@US15_F2@,None
+@US15_I16@,Childfourteen /Ofkids/,F,12 NOV 2010,Alive,7,@US15_F2@,None
+@US15_I17@,Childfifteen /Ofkids/,M,13 NOV 2011,Alive,6,@US15_F2@,None
+@US15_I18@,Childsixteen /Ofkids/,F,15 JUL 2012,Alive,5,@US15_F2@,None
+@US15_I19@,Wife /Ofkids/,F,4 APR 2005,Alive,12,???,@US15_F1@
+@US21_I1@,John /Smith/,M,1 JAN 1960,Alive,57,???,@US21_F2@
+@US21_I2@,Alexander /Smith/,F,4 APR 1980,Alive,37,@US21_F2@,@US21_F1@
+@US21_I3@,Alexa /Jones/,M,1 JUN 1981,Alive,36,???,@US21_F1@
+@US22_I1@,Bob /Smith/,M,2 FEB 1960,Alive,57,???,@US22_F1@
+@US22_I1@,Alexa /Johnson/,F,1 JAN 1961,Alive,56,???,@US22_F1@
+@US23/251@,Like /Vegas/,M,1 JAN 2000,Alive,17,???,@US23/251@
+@US23/252@,Kike /Vegan/,F,1 JAN 2000,Alive,17,???,@US23/251@
+@US23/253@,Dike /Vegas/,M,1 JAN 2016,Alive,1,@US23/251@,None
+@US23/254@,Dike /Vegas/,M,1 JAN 2016,Alive,1,@US23/251@,@US23/252@
+@US23/255@,Jike /Vegan/,F,1 JAN 2016,Alive,1,???,@US23/252@
+@US23/256@,Bike /Vegas/,F,1 JAN 2016,Alive,1,@US23/252@,None
+@US42_I1@,Invalid /Date/,M,30 FEB 2015,1 JAN 2017,1,???,None
+@Q1@,Like /Vegas/,M,1 JAN 2000,Alive,17,???,@K1@
+@Q2@,Kike /Vegan/,F,1 JAN 2000,Alive,17,???,@K1@
+@Q3@,Dike /Vegaas/,M,1 JAN 2016,Alive,1,@K1@,None
+@Q4@,Dike /Vegas/,M,1 JAN 2016,Alive,1,@K1@,@K2@
+@Q5@,Jike /Vegan/,F,1 JAN 2016,Alive,1,???,@K2@
+@Q6@,Bike /Vegas/,F,1 JAN 2016,Alive,1,@K2@,None

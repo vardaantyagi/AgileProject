@@ -1,0 +1,28 @@
+from prettytable import from_csv
+import methods as meths
+import gedcom2csv
+
+readTable = open("individuals.csv", "r")
+table = from_csv(readTable)
+readTable.close()
+print("Individuals")
+print(table)
+print("Families")
+readTable = open("families.csv", "r")
+table = from_csv(readTable)
+readTable.close()
+print(table)
+meths.INDI_ONLY()
+meths.INDI_FAM_relations()
+meths.US10()
+meths.US14()
+meths.US28()
+meths.US29()
+meths.US23()
+meths.US25()
+meths.US31()
+meths.US35()
+meths.US36()
+meths.US38()
+meths.US16()
+meths.US32()
